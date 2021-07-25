@@ -10,3 +10,13 @@ Because of my previous practice, and kwowledge of machine learning and neural ne
 
 ## Compiling, Training and Evaluating the Model
 
+I had to hidden layers. One had 8 neurons and the other one had 5.
+
+<img width="771" alt="Screen Shot 2021-07-25 at 10 57 40 AM" src="https://user-images.githubusercontent.com/79114781/126903776-159f988c-eac2-41f0-b4be-0d0d4ec092ce.png">
+
+Based on my anaylsis the model was not able to achieve the taget performance.
+
+268/268 - 0s - loss: 0.6893 - accuracy: 0.5475
+Loss: 0.6893354058265686, Accuracy: 0.5475218892097473
+
+After anaylizing the model I've came to realize that it couldn't reach the score that was requested. After many filed attempt we left with the mid score of 55% accuracy. 
